@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="bgimage">
+    <file>UIFiles/welding_pi.png</file>
+  </qresource>
+</RCC>
